@@ -1,0 +1,14 @@
+
+center > h1{
+	font-family:monospace;
+}
+
+body > p{
+	font-size:32px;
+}
+
+.inputval{
+	width:255px;
+	height:22px;
+	outline:none;
+}
